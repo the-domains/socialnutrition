@@ -1,14 +1,26 @@
-layout_spectrum: 0.008395523
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1665112
 color:
   saturation: 0.5052668
-  lightness: 0.6420612
   brandStrength: 0.6077425
+  rhythmicContrast: 0.3113229
   brandColors:
     - '#F1F0EE'
     - '#890B77'
     - '#278780'
     - '#E1B5D7'
     - '#9AC4BD'
-  rhythmicContrast: 0.3113229
-typography_spectrum: 0.01089761
+  lightness: 0.6420612
+layout_spectrum: 0.008395523
 name: SocialNutrition
