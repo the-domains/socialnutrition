@@ -1,5 +1,4 @@
-layout_spectrum: 0.1084383
-typography_spectrum: 0.01089761
+layout_spectrum: 0.008395523
 color:
   saturation: 0.5052668
   lightness: 0.6420612
@@ -11,4 +10,5 @@ color:
     - '#E1B5D7'
     - '#9AC4BD'
   rhythmicContrast: 0.3113229
+typography_spectrum: 0.01089761
 name: SocialNutrition
